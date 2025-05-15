@@ -16,10 +16,12 @@ public abstract class Card<T> {
 	 * Constructor called by subclasses when instantiating cards.
 	 * @param String to set card name as.
 	 * @param object value to be associated with card.
+         * ma
 	 */
 	Card(String typeName, T utility) {
 		this.name = typeName + " Card";
 		this.utility = utility;
+		
 	}
 	
 	/**
