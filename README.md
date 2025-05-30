@@ -1,2 +1,0 @@
-# forbidden-island
-forbidden island
